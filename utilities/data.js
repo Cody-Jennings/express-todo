@@ -4,4 +4,4 @@ const todoData = [
     {description: 'Get Smart', complete: false}
 ]
 
-module.exports = todoData;
+module.exports = todoData
